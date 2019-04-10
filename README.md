@@ -1,4 +1,4 @@
-# myE010 - Linux Essentials Exam 010
+# ![](https://www.lpice.eu/fileadmin/_processed_/csm_LinuxEssentials-01_0ab118aa19.jpg) myE010 - Linux Essentials Exam 010
 
 Beispiel für einen Aufbau einer Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus einem oder beiden LPI Examen
 
