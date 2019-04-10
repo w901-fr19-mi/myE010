@@ -2,7 +2,7 @@
 
 Beispiel für einen Aufbau einer Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus einem oder beiden LPI Examen
 
-## Einrichtung forken dieses GitHub Repository für Dokumentation
+## Einrichtung forken dieses GitHub Repository für Dokumentation (Kapitel kann in der Kopie gelöscht werden)
 
 Als erster Schritt muss ein GitHub-Account eingerichtet werden. Dieser dient uns später als "Cloud-Speicher" unserer Dokumentation und weiteren Dateien.
 
@@ -24,7 +24,7 @@ Das ist es! Jetzt haben Sie einen `Fork` (Kopie) des Original myE010 Repository 
 
 Weitere Möglichkeiten siehe [Modul M300 - 10 Toolumgebung](https://github.com/mc-b/M300/tree/master/10-Toolumgebung)
 
-## Dokumentation
+## Dokumentation (Kapitel kann in der Kopie gelöscht werden)
 
 Die Dokumentation erfolgt im Markdownformat, dem Standard Wiki Format von github. Dies geht am Einfachsten direkt auf github.com.
 
@@ -32,7 +32,7 @@ Eine Markdown Übersicht / Syntax etc. finden Sie auf:
 * [Markdown Syntax inkl. Online Demo](http://markdown-syntax.de/Was-ist-Markdown/)
 * [Dokumentation aus dem Modul M300](https://github.com/mc-b/M300/blob/master/80-Ergaenzungen/vcs/03-Markdown.md) 
 
-## Installation
+## Installation (Kapitel kann in der Kopie gelöscht werden)
 
 Es kann entweder Manuell eine Linux VM erstellt werden, wie in [E010](../E010/blob/master/md/10-Linux-System/10-Installation.md) beschrieben oder Sie verwenden Vagrant und holen sich gleichzeitig die 4 Punkte von [E701 - 703.1 Virtual Machine Deployment](../../../E701#topic-703-machine-deployment).
 
@@ -74,7 +74,7 @@ Weitere Informationen siehe [Modul M300 - 20 Infrastruktur-Automatisierung](http
 
 | Datum | behandelte Unterrichtsinhalte: | Gewichtung |
 | -------- | ------ | -------- |
-| 15.05.19 | 1.1 Linux Evolution and Popular Operating Systems<br>1.3 Open Source Software and Licensing | 2 + 2 |
+| 15.05.19 | Installation SW, Einrichten Linux VM<br>1.1 Linux Evolution and Popular Operating Systems<br>1.3 Open Source Software and Licensing | 2 + 2 |
 | 22.05.19 | 2.1 Command Line Basics<br>2.3 Using Directories and Listing Files<br>2.4 Creating, Moving and Deleting Files  | 2 + 3 + 2 |
 | 29.05.19 | 3.2 Searching and Extracting Data from Files<br>3.3 Turning Commands into a Script | 3 + 4 | 
 | 05.06.19 | 4.4 Your Computer on the Network | 2 |
