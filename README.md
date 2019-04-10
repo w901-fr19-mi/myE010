@@ -80,7 +80,7 @@ Weitere Informationen siehe [Modul M300 - 20 Infrastruktur-Automatisierung](http
 | 05.06.19 | 4.4 Your Computer on the Network | 2 |
 | 12.06.19 | 702.1 Container Usage - Studium | - |
 | 19.06.19 | 702.1 Container Usage - Umsetzung | 7 (14) |
-| 26.06.19 | LB1 Prüfung und Abschluss LB2 | - |
+| 26.06.19 | LB1 Theoretische Prüfung und Abschluss LB2 | - |
 | 03.07.19 | Sommersporttage | - |
 |          | Total Punkte | 24 (31) !
 
@@ -89,7 +89,7 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 ## Dokumention des Lern- und Entwicklungsprozesses
 ***
 
-### Kapitel: 2.1 Command Line Basics (Status: Abgeschlossen)
+### Kapitel: 2.1 Command Line Basics (Status: In Arbeit)
 
 **Weight**: 3 (Wert aus Exam 010)
 
