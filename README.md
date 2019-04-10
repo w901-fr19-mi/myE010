@@ -34,7 +34,7 @@ Eine Markdown Übersicht / Syntax etc. finden Sie auf:
 
 ## Installation
 
-Es kann entweder Manuell eine Linux VM erstellt werden, wie in [E010](../E010/blob/master/md/10-Linux-System/10-Installation.md) beschrieben oder Sie verwenden Vagrant und holen sich gleichzeitig die 4 Punkte von [E701 - 703.1 Virtual Machine Deployment](../E701#topic-703-machine-deployment).
+Es kann entweder Manuell eine Linux VM erstellt werden, wie in [E010](../E010/blob/master/md/10-Linux-System/10-Installation.md) beschrieben oder Sie verwenden Vagrant und holen sich gleichzeitig die 4 Punkte von [E701 - 703.1 Virtual Machine Deployment](../../../E701#topic-703-machine-deployment).
 
 **Vagrant Installation**
 
