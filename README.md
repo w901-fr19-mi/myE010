@@ -107,3 +107,9 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 
 **Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir einen Einblick in die Shell. Das nächste Mal will ich diese im Kapitel ... vertiefen.
 
+## Links
+
+* [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
+* [E010 Dokumentation](https://github.com/w901-fr19-mi/E010) 
+* [myE010 Original Repository](https://github.com/w901-fr19-mi/myE010)
+
