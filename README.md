@@ -81,7 +81,8 @@ Weitere Informationen siehe [Modul M300 - 20 Infrastruktur-Automatisierung](http
 | 12.06.19 | 702.1 Container Usage - Studium | - |
 | 19.06.19 | 702.1 Container Usage - Umsetzung | 7 (14) |
 | 26.06.19 | LB1 Theoretische Prüfung und Abschluss LB2 | - |
-| 03.07.19 | Sommersporttage | - |
+| 03.07.19 | Konvent TBZ | - |
+| 10.07.19 | Sommersporttage | - |
 |          | Total Punkte | 24 (31) !
 
 Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe mit ....
